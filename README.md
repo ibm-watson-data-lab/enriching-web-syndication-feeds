@@ -11,6 +11,9 @@ To explore the notebook:
   feed_url = 'http://feeds.feedburner.com/freakonomicsradio'
   ```
 * Enter the credentials of your Watson Natural Language service instance in cell 4.
+
+   ![Natural Language Understanding credentials](https://raw.githubusercontent.com/ibm-watson-data-lab/enriching-web-syndication-feeds/master/assets/credentials.png)
+
   ```
   # @hidden_cell
   # TODO: replace with your Watson Natural Language Understanding service credentials (https://console.bluemix.net/catalog/services/natural-language-understanding/)
