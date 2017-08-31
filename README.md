@@ -5,6 +5,9 @@ Web syndication feeds describe media using metadata, such as title, tags and sum
 To explore the notebook:
 
 * [Provision an instance of the Watson Natural Language service in Bluemix](https://console.bluemix.net/catalog/services/natural-language-understanding/) (use the _Lite_ plan, which is free!)
+
+   ![Provision Natural Language Understanding](https://raw.githubusercontent.com/ibm-watson-data-lab/enriching-web-syndication-feeds/master/assets/provision_service_instance.png)
+   
 * Load [this notebook](https://raw.githubusercontent.com/ibm-watson-data-lab/enriching-web-syndication-feeds/master/enrich_syndication_feed.ipynb) into a project in [Data Science Experience](http://datascience.ibm.com/analytics) ([Instructions](https://apsportal.ibm.com/docs/content/analyze-data/creating-notebooks.html)) 
 * Customize the Syndication feed URL feed_url in cell 3, if desired 
   ```
